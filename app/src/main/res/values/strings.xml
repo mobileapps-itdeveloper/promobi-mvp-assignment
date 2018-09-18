@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NYTimesAPIDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="by">By</string>
+    <string name="update_on">Updated On</string>
+    <string name="publish_on">Publush On</string>
+    <string name="message_processing_request">Processing request...</string>
+    <string name="message_offline_database">No internet, data retrive from offline database.</string>
+    <string name="message_without_filter">Searching without filter.</string>
+    <string name="message_link_error">Link not found.</string>
+    <string name="message_activie_internet_required">Active internet connection require to open web link.</string>
+</resources>
